@@ -12,5 +12,5 @@ f.ex:
 5. After that TRAIN set [the same way as it was in case TEST data].
 6. Both datasets are merged to 'BigData'.
 7. After that there are proper measures (mean and std) substracted.
-8. In the last step it is created dataset with aggregates by activity and subject.
+8. In the last step it is created dataset with aggregates by activity and subject ->'BigDataAggr'.
 9. Further details are in script comments. 
